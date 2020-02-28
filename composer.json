@@ -1,0 +1,13 @@
+{
+    "name": "abez/rector-demo",
+    "require": {
+    },
+    "require-dev": {
+        "rector/rector-prefixed": "^0.7.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "RectorDemoModule\\": "src"
+        }
+    }
+}
